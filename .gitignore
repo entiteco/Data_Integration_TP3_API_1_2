@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Données
+data_lake/
+*.sqlite3
+
+# IDE / OS
+.vscode/
+.DS_Store
