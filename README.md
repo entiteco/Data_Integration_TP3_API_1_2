@@ -2,7 +2,7 @@ Data Platform Project (ETL & API)
 
 This repository contains the complete source code for a data platform, separated into two main projects: an ingestion pipeline and a serving API.
 
-🚀 Projects
+Projects
 
 This repository is a "mono-repo" containing two distinct projects. For detailed technical information, please see the README.md file inside each sub-directory.
 
@@ -36,7 +36,7 @@ For full setup and run instructions, please see the README.md inside each projec
 
 
 
-## 🚀 Installation and How to Run
+## Installation and How to Run
 
 This project consists of two separate but connected applications: the **ETL Pipeline** (which populates the database) and the **API Service** (which serves the data).
 
