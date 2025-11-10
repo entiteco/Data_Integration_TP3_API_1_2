@@ -1,0 +1,4 @@
+kafka-python-ng
+mysql-connector-python
+apache-beam
+schedule
